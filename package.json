@@ -1,0 +1,19 @@
+{
+  "name": "fridge-data-parser",
+  "version": "1.0.0",
+  "description": "App for processing refridgerator data",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dotzipfile/fridge-data-parser.git"
+  },
+  "author": "David Malone",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dotzipfile/fridge-data-parser/issues"
+  },
+  "homepage": "https://github.com/dotzipfile/fridge-data-parser#readme"
+}
